@@ -1,0 +1,1728 @@
+[{
+  "_id": {
+    "$oid": "64ae4f192421b46fc193f3b8"
+  },
+  "string_id": "64ae4f192421b46fc193f3b8",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 14:58:33",
+  "problem_id": "2",
+  "problem_name": "乘法逆元",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 2\nlanguage C++",
+  "case_n": 2,
+  "full_result": "error Judgment Failed\n",
+  "state": "Judgement Failed",
+  "error": "Judgment Failed : Judger Judgment Failed",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae51e12421b46fc193f3b9"
+  },
+  "string_id": "64ae51e12421b46fc193f3b9",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:10:25",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "details": [
+    {
+      "num": "1",
+      "score": "50",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3316",
+      "res": "ok 1 number(s): &quot;2&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "50",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3324",
+      "res": "ok 1 number(s): &quot;202&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "1",
+  "result_memory": "3324",
+  "full_result": "score 100\ntime 1\nmemory 3324\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae51fb2421b46fc193f3ba"
+  },
+  "string_id": "64ae51fb2421b46fc193f3ba",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b+1<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:10:51",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3308",
+      "res": "wrong answer 1st numbers differ - expected: '2', found: '3'\n"
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3316",
+      "res": "wrong answer 1st numbers differ - expected: '202', found: '203'\n"
+    }
+  ],
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "3316",
+  "full_result": "score 0\ntime 0\nmemory 3316\n",
+  "state": "Wrong Answer",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae520f2421b46fc193f3bb"
+  },
+  "string_id": "64ae520f2421b46fc193f3bb",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    while(1);\r\n    cout<<a+b<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:11:11",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Time Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Time Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    }
+  ],
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "score 0\ntime 0\nmemory 0\n",
+  "state": "Time Limit Exceeded",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae52272421b46fc193f3bc"
+  },
+  "string_id": "64ae52272421b46fc193f3bc",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    couct<<a+b<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:11:35",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": " In function ‘int main()’:\n7:5: error: ‘couct’ was not declared in this scope\n    7 |     couct&lt;&lt;a+b&lt;&lt;endl;\n      |     ^~~~~\n",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae56e12421b46fc193f3be"
+  },
+  "string_id": "64ae56e12421b46fc193f3be",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nlong long a[2100000];\r\nint main()\r\n{\r\n    for(int i=1;i<=2100000;i++)\r\n        a[i]=i;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:31:45",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Memory Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Memory Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    }
+  ],
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "score 0\ntime 0\nmemory 0\n",
+  "state": "Memory Limit Exceeded",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64ae59232421b46fc193f3c0"
+  },
+  "string_id": "64ae59232421b46fc193f3c0",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nstring s;\r\nint main()\r\n{\r\n    for(int i=1;i<=1000000;i++)\r\n        s+=\"00000\";\r\n        \r\n    for(int i=1;i<=1000000;i++)\r\n        cout<<s<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-12 15:41:23",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Output Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Output Limit Exceeded",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    }
+  ],
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "score 0\ntime 0\nmemory 0\n",
+  "state": "Output Limit Exceeded",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64af52be538429536e7682b7"
+  },
+  "string_id": "64af52be538429536e7682b7",
+  "submission_code": "#include<bots>",
+  "submission_language": "C++",
+  "submission_time": "2023-07-13 09:26:22",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "alice",
+  "user_id": "1",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 2,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "1:9: fatal error: bots: No such file or directory\n    1 | #include&lt;bots&gt;\n      |         ^~~~~~\ncompilation terminated.\n",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64afa2bb538429536e7682b8"
+  },
+  "string_id": "64afa2bb538429536e7682b8",
+  "submission_code": "#include<cstdio>\r\nint main()\r\n{\r\n    int a,b;\r\n    scanf(\"%d %d\",&a,&b);\r\n    printf(\"%d\\n\",a+b);\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-13 15:07:39",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1516",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1580",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1584",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1624",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1516",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1596",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1624",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1596",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1612",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1612",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "0",
+  "result_memory": "1624",
+  "full_result": "score 100\ntime 0\nmemory 1624\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64b0a2d39f73b726ef93e060"
+  },
+  "string_id": "64b0a2d39f73b726ef93e060",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b<<endl;\r\n    cout<<a<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-07-14 09:20:19",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3264",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3316",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "3",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3268",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "4",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3260",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "5",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3340",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "6",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3268",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "7",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3244",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "8",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3272",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "9",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3268",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    },
+    {
+      "num": "10",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3276",
+      "res": "wrong answer Output contains longer sequence [length = 2], but answer contains 1 elements\n"
+    }
+  ],
+  "result_score": "0",
+  "result_time": "10",
+  "result_memory": "3340",
+  "full_result": "score 0\ntime 10\nmemory 3340\n",
+  "state": "Wrong Answer",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64e72400f083c15e53f7eef5"
+  },
+  "string_id": "64e72400f083c15e53f7eef5",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    int c=a+b;\r\n    if(c<=400000)cout<<c<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-08-24 17:33:52",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "2",
+      "memory": "3124",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3276",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "3",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3196",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3220",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3152",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3284",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3288",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3128",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3228",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "10",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3160",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    }
+  ],
+  "result_score": "50",
+  "result_time": "9",
+  "result_memory": "3288",
+  "full_result": "score 50\ntime 9\nmemory 3288\n",
+  "state": "Wrong Answer",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64e72425f083c15e53f7eef6"
+  },
+  "string_id": "64e72425f083c15e53f7eef6",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    int c=a+b;\r\n    if(c<=500000)cout<<c<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-08-24 17:34:29",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3364",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3308",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "3",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3364",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3320",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "0",
+      "memory": "3176",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3180",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3224",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3320",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "0",
+      "info": "Wrong Answer",
+      "time": "1",
+      "memory": "3264",
+      "res": "wrong answer Answer contains longer sequence [length = 1], but output contains 0 elements\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3356",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "60",
+  "result_time": "3",
+  "result_memory": "3364",
+  "full_result": "score 60\ntime 3\nmemory 3364\n",
+  "state": "Wrong Answer",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64e72747f083c15e53f7eef7"
+  },
+  "string_id": "64e72747f083c15e53f7eef7",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b<<endl;\r\n}",
+  "submission_language": "C++",
+  "submission_time": "2023-08-24 17:47:51",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage C++",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3300",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3244",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "2",
+      "memory": "3248",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3296",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3184",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3200",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3204",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3304",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3136",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3204",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "6",
+  "result_memory": "3304",
+  "full_result": "score 100\ntime 6\nmemory 3304\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f03e20238fac0833c59628"
+  },
+  "string_id": "64f03e20238fac0833c59628",
+  "submission_code": "a,b=int(input().strip().split())\r\nprint(a+b)",
+  "submission_language": "python",
+  "submission_time": "2023-08-31 15:15:44",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage python",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "1:1: error: ‘a’ does not name a type\n    1 | a,b=int(input().strip().split())\n      | ^\n",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f05914238fac0833c59629"
+  },
+  "string_id": "64f05914238fac0833c59629",
+  "submission_code": "s=input().split()\r\nprint(int(s[0])+int(s[1]))",
+  "submission_language": "Python3",
+  "submission_time": "2023-08-31 17:10:44",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage Python3",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "An error occurs when trying to read the source code.\n",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f05996238fac0833c5962a"
+  },
+  "string_id": "64f05996238fac0833c5962a",
+  "submission_code": "s=input().split()\r\nprint(int(s[0])+int(s[1]))",
+  "submission_language": "Python3",
+  "submission_time": "2023-08-31 17:12:54",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nlanguage Python3",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "2",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "3",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "4",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "5",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "6",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "7",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "8",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "9",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    },
+    {
+      "num": "10",
+      "score": "0",
+      "info": "Runtime Error",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    }
+  ],
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "score 0\ntime 0\nmemory 0\n",
+  "state": "Runtime Error",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f05b40269142412c5c813d"
+  },
+  "string_id": "64f05b40269142412c5c813d",
+  "submission_code": "s=input().split()\r\nprint(int(s[0])+int(s[1]))",
+  "submission_language": "Python3",
+  "submission_time": "2023-08-31 17:20:00",
+  "problem_id": "1",
+  "problem_name": "A+B Problem",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 1\nanswer_language Python3",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "9264",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "3",
+      "memory": "9292",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "9300",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "16",
+      "memory": "9388",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "5",
+      "memory": "9288",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "16",
+      "memory": "9320",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "16",
+      "memory": "9264",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "12",
+      "memory": "9300",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "4",
+      "memory": "9304",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "6",
+      "memory": "9312",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "80",
+  "result_memory": "9388",
+  "full_result": "score 100\ntime 80\nmemory 9388\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f1757b43c53c291158e3c0"
+  },
+  "string_id": "64f1757b43c53c291158e3c0",
+  "submission_code": "#include<cstdio>\r\nchar*s=\"#include<cstdio>%cchar*s=%c%s%c;main(){printf(s,10,34,s,34);}\";main(){printf(s,10,34,s,34);}",
+  "submission_language": "C++",
+  "submission_time": "2023-09-01 13:24:11",
+  "problem_id": "8",
+  "problem_name": "Quine",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 8\nanswer_language C++",
+  "case_n": 1,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Judgment Failed\n",
+  "state": "Judgement Failed",
+  "error": "Judgment Failed : Judger Judgment Failed",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f2d40f324f376674455e93"
+  },
+  "string_id": "64f2d40f324f376674455e93",
+  "submission_code": "#include<cstdio>\r\nchar*s=\"#include<cstdio>%cchar*s=%c%s%c;main(){printf(s,10,34,s,34);}\";main(){printf(s,10,34,s,34);}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-02 14:19:59",
+  "problem_id": "8",
+  "problem_name": "Quine",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 8\nanswer_language C++20",
+  "case_n": 1,
+  "details": [
+    {
+      "num": "1",
+      "score": "100",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "1400",
+      "res": "ok 2 lines\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "0",
+  "result_memory": "1400",
+  "full_result": "score 100\ntime 0\nmemory 1400\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f2d42f324f376674455e94"
+  },
+  "string_id": "64f2d42f324f376674455e94",
+  "submission_code": "\r\n#include\"kth.h\"\r\n#include<vector>\r\n#include<algorithm>\r\nstd::vector<int>v;\r\nint query_kth(int na,int nb,int nc,int k){\r\n\tv.clear();\r\n\tint bega,begb,begc,l;\r\n\tbega=begb=begc=0;\r\n\twhile(k>=3){\r\n\t\tl=k/3;\r\n\t\tint al=get_a(bega+l-1),bl=get_b(begb+l-1),cl=get_c(begc+l-1);\r\n\t\tif(al<bl){\r\n\t\t\tif(al<cl)bega+=l;else\r\n\t\t\tbegc+=l;\r\n\t\t}else{\r\n\t\t\tif(bl<cl)begb+=l;else\r\n\t\t\tbegc+=l;\r\n\t\t}\r\n\t\tk-=l;\r\n\t}\r\n\tfor(int i=1;i<=k;++i){\r\n\t\tif(bega<na)v.push_back(get_a(bega++));\r\n\t\tif(begb<nb)v.push_back(get_b(begb++));\r\n\t\tif(begc<nc)v.push_back(get_c(begc++));\r\n\t}\r\n\tstd::sort(v.begin(),v.end());\r\n\treturn v[k-1];\r\n}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-02 14:20:31",
+  "problem_id": "52",
+  "problem_name": "【UR #4】元旦激光炮",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 52\nanswer_language C++20",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3148",
+      "res": "ok answer is 871216480 and 36 calls\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "8",
+      "memory": "3816",
+      "res": "ok answer is 650062842 and 88 calls\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "5",
+      "memory": "3820",
+      "res": "ok answer is 415829695 and 85 calls\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3824",
+      "res": "ok answer is 52244181 and 90 calls\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "8",
+      "memory": "4212",
+      "res": "ok answer is 674170216 and 93 calls\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "10",
+      "memory": "4184",
+      "res": "ok answer is 4830296 and 81 calls\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "4",
+      "memory": "4256",
+      "res": "ok answer is 960993923 and 96 calls\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "12",
+      "memory": "4260",
+      "res": "ok answer is 50281327 and 95 calls\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "21",
+      "memory": "4204",
+      "res": "ok answer is 649264397 and 93 calls\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "8",
+      "memory": "4180",
+      "res": "ok answer is 29930334 and 93 calls\n"
+    },
+    {
+      "num": "-1",
+      "score": "0",
+      "info": "Extra Test Passed",
+      "time": "-1",
+      "memory": "-1",
+      "res": ""
+    }
+  ],
+  "result_score": "100",
+  "result_time": "77",
+  "result_memory": "4260",
+  "full_result": "score 100\ntime 77\nmemory 4260\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f5b36cd3bb0a3eb1f092d2"
+  },
+  "string_id": "64f5b36cd3bb0a3eb1f092d2",
+  "submission_code": "",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-04 18:37:32",
+  "problem_id": "52",
+  "problem_name": "【UR #4】元旦激光炮",
+  "user_name": "1234",
+  "user_id": "68",
+  "conf": "problem_id 52\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "/usr/bin/ld: /tmp/ccfXzqOc.o: in function `main':\nimplementer.cpp:(.text.startup+0x142): undefined reference to `query_kth'\ncollect2: error: ld returned 1 exit status\n",
+  "_class": "team.beatcode.judge.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64f9ca6098560214c5a78ae2"
+  },
+  "string_id": "64f9ca6098560214c5a78ae2",
+  "submission_code": "",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-07 21:04:32",
+  "user_id": "1",
+  "user_name": "alice",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/10/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':\n(.text+0x24): undefined reference to `main'\ncollect2: error: ld returned 1 exit status\n",
+  "_class": "team.beatcode.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fa90fb101ad41169debaf5"
+  },
+  "string_id": "64fa90fb101ad41169debaf5",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b<<endl;\r\n}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-08 11:11:55",
+  "user_id": "84",
+  "user_name": "1111",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3324",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3396",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3392",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3396",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3336",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3376",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3388",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3384",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3260",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3400",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "7",
+  "result_memory": "3400",
+  "full_result": "score 100\ntime 7\nmemory 3400\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fac376ec1d024298c34b02"
+  },
+  "string_id": "64fac376ec1d024298c34b02",
+  "submission_code": "",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-08 14:47:18",
+  "user_id": "84",
+  "user_name": "1111",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/10/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':\n(.text+0x24): undefined reference to `main'\ncollect2: error: ld returned 1 exit status\n",
+  "_class": "team.beatcode.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fbeb212a36b1234ae472a4"
+  },
+  "string_id": "64fbeb212a36b1234ae472a4",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b;\r\n}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-09 11:48:49",
+  "user_id": "68",
+  "user_name": "1234",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "sh: 1: /usr/bin/g++-10: not found\n",
+  "_class": "team.beatcode.submission.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fbeca82a36b1234ae472a5"
+  },
+  "string_id": "64fbeca82a36b1234ae472a5",
+  "submission_code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main()\r\n{\r\n    int a,b;\r\n    cin>>a>>b;\r\n    cout<<a+b;\r\n}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-09 11:55:20",
+  "user_id": "68",
+  "user_name": "1234",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3312",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3392",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3384",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3432",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3484",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3312",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3444",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3308",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3292",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3388",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "1",
+  "result_memory": "3484",
+  "full_result": "score 100\ntime 1\nmemory 3484\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.submission.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fbee202a36b1234ae472a6"
+  },
+  "string_id": "64fbee202a36b1234ae472a6",
+  "submission_code": "#include<cstdio>\r\n#include<iostream>\r\n#define mod 1000000007\r\nusing namespace std;\r\nlong long A[501][501],B[501][501];\r\nlong long C[1001][1001];\r\nint n,m,p;\r\nint main()\r\n{\r\n    cin>>n>>p>>m;\r\n    for(int i=1;i<=n;i++)\r\n        for(int j=1;j<=p;j++)\r\n            cin>>A[i][j];\r\n    for(int i=1;i<=p;i++)\r\n        for(int j=1;j<=m;j++)\r\n            cin>>B[i][j];\r\n    for(int i=1;i<=n;i++)\r\n        for(int j=1;j<=p;j++)\r\n            for(int k=1;k<=m;k++)\r\n            {\r\n                C[i][k]+=A[i][j]*B[j][k];\r\n                C[i][k]%=mod;\r\n            }\r\n    for(int i=1;i<=n;i++)\r\n    {\r\n        for(int j=1;j<=m;j++)\r\n        {\r\n            while(C[i][j]<0)C[i][j]+=mod;\r\n            C[i][j]%=mod;\r\n            printf(\"%d \",C[i][j]);\r\n        }\r\n        printf(\"\\n\");\r\n    }\r\n}",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-09 12:01:36",
+  "user_id": "68",
+  "user_name": "1234",
+  "problem_id": "100",
+  "problem_name": "矩阵乘法",
+  "conf": "problem_id 100\nanswer_language C++20",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3732",
+      "res": "ok 15 numbers\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3668",
+      "res": "ok 100 numbers\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3836",
+      "res": "ok 300 numbers\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "4",
+      "memory": "4404",
+      "res": "ok 1800 numbers\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "70",
+      "memory": "8304",
+      "res": "ok 93200 numbers\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "344",
+      "memory": "11388",
+      "res": "ok 250000 numbers\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "2",
+      "memory": "7604",
+      "res": "ok 500 numbers\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "71",
+      "memory": "5312",
+      "res": "ok 5000 numbers\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "334",
+      "memory": "11372",
+      "res": "ok 250000 numbers\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3580",
+      "res": "ok 1 number(s): &quot;862788905&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "829",
+  "result_memory": "11388",
+  "full_result": "score 100\ntime 829\nmemory 11388\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.submission.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fc2b883e358f6b6df47c63"
+  },
+  "string_id": "64fc2b883e358f6b6df47c63",
+  "submission_code": "",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-09 16:23:36",
+  "user_id": "2",
+  "user_name": "bob",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/10/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':\n(.text+0x24): undefined reference to `main'\ncollect2: error: ld returned 1 exit status\n",
+  "_class": "team.beatcode.submission.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fd3232cab0c27a861586c5"
+  },
+  "string_id": "64fd3232cab0c27a861586c5",
+  "submission_code": "# include <stdio.h> \n # include <stdlib.h> \n # include <iostream> using namespace std; int main() \n { \n int a,b;\n cin >> a >> b; \n cout << a+b << endl; \n return 0; \n }",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-10 11:04:18",
+  "user_id": "2",
+  "user_name": "bob",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "result_score": "0",
+  "result_time": "0",
+  "result_memory": "0",
+  "full_result": "error Compile Error\n",
+  "state": "Compile Error",
+  "error": "3:23: warning: extra tokens at end of #include directive\n    3 |  # include &lt;iostream&gt; using namespace std; int main()\n      |                       ^~~~~\n4:2: error: expected unqualified-id before ‘{’ token\n    4 |  {\n      |  ^\n",
+  "_class": "team.beatcode.submission.entity.Submission"
+},
+{
+  "_id": {
+    "$oid": "64fd3292cab0c27a861586c6"
+  },
+  "string_id": "64fd3292cab0c27a861586c6",
+  "submission_code": "# include <stdio.h> \n # include <stdlib.h> \n # include <iostream> \n using namespace std; \n int main() \n { \n int a,b;\n cin >> a >> b; \n cout << a+b << endl; \n return 0; \n }",
+  "submission_language": "C++20",
+  "submission_time": "2023-09-10 11:05:54",
+  "user_id": "2",
+  "user_name": "bob",
+  "problem_id": "1",
+  "problem_name": "A+B Problem~",
+  "conf": "problem_id 1\nanswer_language C++20",
+  "case_n": 10,
+  "details": [
+    {
+      "num": "1",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3428",
+      "res": "ok 1 number(s): &quot;338497&quot;\n"
+    },
+    {
+      "num": "2",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3440",
+      "res": "ok 1 number(s): &quot;592278&quot;\n"
+    },
+    {
+      "num": "3",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3292",
+      "res": "ok 1 number(s): &quot;519342&quot;\n"
+    },
+    {
+      "num": "4",
+      "score": "10",
+      "info": "Accepted",
+      "time": "1",
+      "memory": "3452",
+      "res": "ok 1 number(s): &quot;202915&quot;\n"
+    },
+    {
+      "num": "5",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3364",
+      "res": "ok 1 number(s): &quot;783819&quot;\n"
+    },
+    {
+      "num": "6",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3368",
+      "res": "ok 1 number(s): &quot;358164&quot;\n"
+    },
+    {
+      "num": "7",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3396",
+      "res": "ok 1 number(s): &quot;327258&quot;\n"
+    },
+    {
+      "num": "8",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3476",
+      "res": "ok 1 number(s): &quot;202759&quot;\n"
+    },
+    {
+      "num": "9",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3436",
+      "res": "ok 1 number(s): &quot;562530&quot;\n"
+    },
+    {
+      "num": "10",
+      "score": "10",
+      "info": "Accepted",
+      "time": "0",
+      "memory": "3380",
+      "res": "ok 1 number(s): &quot;467900&quot;\n"
+    }
+  ],
+  "result_score": "100",
+  "result_time": "2",
+  "result_memory": "3476",
+  "full_result": "score 100\ntime 2\nmemory 3476\n",
+  "state": "Accepted",
+  "_class": "team.beatcode.submission.entity.Submission"
+}]

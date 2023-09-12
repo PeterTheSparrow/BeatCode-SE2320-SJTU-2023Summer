@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "64e5f172693d030ef2aa22d4"
+  },
+  "user_id": "68",
+  "user_name": "1234",
+  "ACount": 5,
+  "problem_condition": {
+    "1": 100,
+    "8": 100,
+    "52": 100,
+    "100": 100,
+    "6287": 100
+  },
+  "User_activity": {
+    "2022/12/31": 1234,
+    "2023/07/13": 1,
+    "2023/07/14": 1,
+    "2023/08/24": 3,
+    "2023/08/31": 4,
+    "2023/09/01": 1,
+    "2023/09/02": 2,
+    "2023/09/04": 1,
+    "2023/09/09": 3
+  },
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64edabbe1e82d39b9fddb917"
+  },
+  "user_id": "1",
+  "user_name": "alice",
+  "ACount": 0,
+  "problem_condition": {
+    "1": 0
+  },
+  "User_activity": {
+    "2023/03/01": 1,
+    "2023/03/23": 2,
+    "2023/01/02": 123,
+    "2023/09/07": 1
+  },
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64edb13b1e82d39b9fddb919"
+  },
+  "problem_condition": {},
+  "user_id": "4",
+  "ACount": 0,
+  "_class": "team.beatcode.entity.UserCondition",
+  "user_name": "alanTam",
+  "User_activity": {
+    "2023/03/01": 1,
+    "2023/03/23": 2,
+    "2023/1/2": 123
+  }
+},
+{
+  "_id": {
+    "$oid": "64f453eaebd9f5d6480ac7b8"
+  },
+  "user_id": "82",
+  "user_name": "leslie",
+  "ACount": 0,
+  "problem_condition": {},
+  "User_activity": {},
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64f868f06574be214b9bd810"
+  },
+  "user_id": "2",
+  "user_name": "bob",
+  "ACount": 2,
+  "problem_condition": {
+    "1": 100,
+    "6287": 100
+  },
+  "User_activity": {
+    "2023/03/01": 1,
+    "2023/03/23": 2,
+    "2023/1/2": 123,
+    "2023/09/09": 1,
+    "2023/09/10": 2
+  },
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64fa90acd3dfb2305eeaf992"
+  },
+  "user_id": "84",
+  "user_name": "1111",
+  "ACount": 1,
+  "problem_condition": {
+    "1": 100
+  },
+  "User_activity": {
+    "2023/09/08": 2
+  },
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64fa92c27f6a0e428bb68a24"
+  },
+  "user_id": "85",
+  "user_name": "easonchan",
+  "ACount": 0,
+  "problem_condition": {},
+  "User_activity": {},
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64fc22e3844f6f2ec81937d4"
+  },
+  "user_id": "77",
+  "user_name": "jackeylove",
+  "ACount": 0,
+  "problem_condition": {},
+  "User_activity": {},
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64fc9dc9a7d2574fef7c0e9c"
+  },
+  "user_id": "96",
+  "user_name": "Trump",
+  "ACount": 0,
+  "problem_condition": {},
+  "User_activity": {},
+  "_class": "team.beatcode.user.entity.UserCondition"
+},
+{
+  "_id": {
+    "$oid": "64fd3985d26ddc3b4d4f511c"
+  },
+  "user_id": "97",
+  "user_name": "niwig76187",
+  "ACount": 0,
+  "problem_condition": {},
+  "User_activity": {},
+  "_class": "team.beatcode.user.entity.UserCondition"
+}]
