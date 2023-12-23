@@ -12,7 +12,7 @@
 - 前端使用`react`框架
 - 后端使用`spring cloud`框架
 - 数据库使用`mysql`和`mongodb`
-- 缓存使用`spring cache`
+- 使用`spring cache`作为缓存
 - 后端评测结果使用`websocket`实时推送
 
 
@@ -23,7 +23,7 @@
 
 | 姓名 | 工作内容 | 成员 |
 | :---: | :---: | :---: |
-| [PeterTheSparrow](https://github.com/PeterTheSparrow) | 前端主要编写者；后端鉴权部分代码、用户服务编写 | 齁弱的组长 |
+| [PeterTheSparrow](https://github.com/PeterTheSparrow) | 前端主要编写者；后端鉴权部分代码、用户服务编写 | 组长 |
 | [KarH-in-dream](https://github.com/KarH-in-dream) | 后端微服务框架搭建、后端鉴权服务、题库服务编写、后端代码结构优化 | 组员 |
 | [ReV3nus](https://github.com/ReV3nus) | 评测服务编写；前端相关界面编写；题库服务编写 | 组员 |
 | [iqichen](https://github.com/iqichen) | 后端用户服务编写；项目部署与运维 | 组员 |
