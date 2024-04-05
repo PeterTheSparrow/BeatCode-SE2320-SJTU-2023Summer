@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "64ae16212144024817421a22"
+  },
+  "title": {
+    "name": "文艺平衡树",
+    "id": 100
+  },
+  "description": "**题目描述**\n\n这是一道模板题。\n\n您需要写一种数据结构（可参考题目标题），来维护一个序列，其中需要提供以下操作：\n\n- 翻转一个区间，例如原有序序列是 5 4 3 2 1，翻转区间是 [2, 4] 的话，结果是 5 2 3 4 1。\n\n**输入格式**\n\n第一行为 `n, m`，`n` 表示初始序列有 `n` 个数，这个序列依次是 {1, 2, ..., n-1, n}，`m` 表示翻转操作次数。\n\n接下来 `m` 行每行两个数 `[l, r]`，数据保证 `1 ≤ l ≤ r ≤ n`。\n\n**输出格式**\n\n输出一行 `n` 个数字，表示原始序列经过 `m` 次变换后的结果。",
+  "tags": [
+    {
+      "name": "数据结构",
+      "description": "数据结构",
+      "color": "#0ED6F2"
+    },
+    {
+      "name": "平衡树",
+      "description": "平衡树",
+      "color": "#29CA20"
+    }
+  ],
+  "difficulty": "困难",
+  "config": {
+    "type": "conventional",
+    "test_num": 2,
+    "time_limit": 600,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ae16212144024817421a23"
+  },
+  "title": {
+    "name": "乘法逆元",
+    "id": 2
+  },
+  "description": "# 题目描述\n\n这是一道模板题。\n\n给定正整数 `n` 和 `p`，求 1 到 `n` 中的所有数在模 `p` 意义下的乘法逆元。\n\n# 输入格式\n\n一行包含两个正整数 `n` 和 `p`。\n\n# 输出格式\n\n共 `n` 行，每行一个正整数，表示对应的数在模 `p` 意义下的乘法逆元。\n\n# 注释\n在数论中，乘法逆元是指对于给定的模数p，某个整数a的逆元b满足以下条件：\n\n a * b ≡ 1 (mod p)\n\n其中，符号 \"≡\" 表示同余关系，即两个整数除以模数后具有相同的余数。\n\n换句话说，乘法逆元是指在模p意义下，使得a与它的逆元b的乘积等于1。这就意味着乘法逆元可以使得a被p整除后的余数等于1。",
+  "tags": [
+    {
+      "name": "数学",
+      "description": "数学",
+      "color": "#93CDAE"
+    },
+    {
+      "name": "数论",
+      "description": "数论",
+      "color": "#D9F20E"
+    }
+  ],
+  "difficulty": "简单",
+  "config": {
+    "type": "conventional",
+    "test_num": 2,
+    "time_limit": 1000,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ae16212144024817421a24"
+  },
+  "title": {
+    "name": "单源最短路",
+    "id": 102
+  },
+  "description": "https://loj.ac/p/119。\n**题目描述**\n\n给定一个包含 n 个点和 m 条边的无向图，求从顶点 s 到顶点 t 的最短路径。\n\n**输入格式**\n\n第一行包含四个由空格隔开的整数 n、m、s 和 t。\n\n接下来的 m 行，每行包含三个正整数 s_i、t_i 和 w_i (1 ≤ w_i ≤ 10^9)，表示一条从节点 s_i 到节点 t_i 长度为 w_i 的边。\n\n**输出格式**\n\n输出一个整数，表示从顶点 s 到顶点 t 的最短路径长度。数据保证至少存在一条路径。",
+  "tags": [
+    {
+      "name": "图论",
+      "description": "图论",
+      "color": "#FF0000"
+    },
+    {
+      "name": "最短路",
+      "description": "最短路",
+      "color": "#1F0120"
+    }
+  ],
+  "difficulty": "简单",
+  "config": {
+    "type": "conventional",
+    "test_num": 2,
+    "time_limit": 1000,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ae16212144024817421a25"
+  },
+  "title": {
+    "name": "Lyndon 分解",
+    "id": 103
+  },
+  "description": "https://loj.ac/p/129。读入一个由大小写英文字母或数字组成的字符串 s ，请把这个字符串分成若干部分 s=s_1s_2s_3 …… s_m，使得每个 s_i 都是 Lyndon Word，且 1< i <n ; s_i > s_{i+1}。输出 s_1 到 s_m 这些串长度的右端点的位置。位置编号为 1 到 n。一个字符串 s 是一个 Lyndon Word 表示 s 是其所有后缀中的最小者。",
+  "tags": [
+    {
+      "name": "模板",
+      "description": "模板",
+      "color": "#1677FF"
+    },
+    {
+      "name": "字符串",
+      "description": "字符串",
+      "color": "#5C7B5A"
+    }
+  ],
+  "difficulty": "简单",
+  "config": {
+    "type": "conventional",
+    "test_num": 2,
+    "time_limit": 223,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ae16212144024817421a26"
+  },
+  "title": {
+    "name": "最小斯坦纳树",
+    "id": 104
+  },
+  "description": "https://loj.ac/p/187。给定一个包含 n 个结点和 m 条带权边的无向连通图 G=(V,E)。再给定包含 k 个结点的点集 S，选出 G 的子图 G'=(V',E')，使得：S ∈ V'；G' 为连通图；E' 中所有边的权值和最小。 你只需要求出 E' 中所有边的权值和。",
+  "tags": [
+    {
+      "name": "模板",
+      "description": "模板",
+      "color": "#1677FF"
+    },
+    {
+      "name": "斯坦纳树",
+      "description": "斯坦纳树",
+      "color": "#9F423D"
+    }
+  ],
+  "difficulty": "简单",
+  "config": {
+    "type": "conventional",
+    "test_num": 2,
+    "time_limit": 1000,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64af66801fc7e9f545a1c673"
+  },
+  "title": {
+    "name": "A+B Problem",
+    "id": 1
+  },
+  "description": "**题目描述**\n\n输入a和b，\n\n你需要输出a+b的和的结果。\n\n**输入格式**\n\n第一行为 `a` 和 `b`，数据保证 `1 ≤ a,b ≤ 2^31-1`。\n\n**输出格式**\n\n输出一行 `a+b` 的值",
+  "tags": [
+    {
+      "name": "模板",
+      "description": "模板",
+      "color": "#29CA20"
+    }
+  ],
+  "difficulty": "入门",
+  "config": {
+    "type": "conventional",
+    "test_num": 10,
+    "time_limit": 1000,
+    "memory_limit": 256,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "ncmp"
+  },
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64af9cd71fc7e9f545a1c674"
+  },
+  "title": {
+    "name": "诗歌",
+    "id": 6287
+  },
+  "description": "题目描述\n小 F 是一个爱写诗的小姑娘。\n\n“我能看一看你写的诗吗？”\n\n“看吧，别念出来哦，我会害羞的。”\n\n小 F 慵懒地坐在午后的阳光下，她在写诗，可是似乎没有什么灵感。\n\n她用手指勾勒着远方绵延的山，就写关于远方的诗吧。\n\n远方的山总共有 N 个山峰，从左往右第 i 个山峰有一个高度 H_i。小 F 认为一个三元组 (i, j, k) 可以写成一首诗，当且仅当 1 \\le i < j < k \\le N 且 H_i - H_j = H_j - H_k。\n\n小 F 和大 F 生活的国家—— Fairy 国地形十分奇特，保证 H_{1\\ldots N} 一定是一个 1\\ldots N 的排列。\n\n小 F 想写诗给大 F 看，但是不知道自己能不能写成，于是她想问问你。\n\n输入格式\n第一行一个正整数 N ，表示山峰的数量。\n\n第二行 N 个正整数 H_{1\\ldots N}，表示从左往右每座山峰的高度，保证是个 1\\ldots N 的排列。\n\n输出格式\n一行一个字符串 YES 或 NO ，表示小 F 能否写出一首诗，即是否存在三元组 (i, j, k) 满足 1 \\le i < j < k \\le N 且 H_i - H_j = H_j - H_k 。\n\n样例 1\n输入\n4\n1 3 4 2\n输出\nNO\n不存在符合条件的三元组。\n\n样例 2\n输入\n5\n1 5 2 4 3\n输出\nYES\n有两个符合条件的三元组。\n\n第一个是 (1, 3, 5)，此时 H_i=1, H_j=2, H_k=3。\n\n第二个是 (2, 4, 5)，此时 H_i=5, H_j=4, H_k=3。\n\n所以此时符合条件的三元组存在，应当输出 YES。\n\n数据范围与提示\n对于所有数据，保证 3 \\le N \\le 3\\times 10^5。\n\n下表为各个 Subtask 的额外限制与得分，空格表示该项无额外限制。你只有通过一个 Subtask 的所有数据才能得到该 Subtask 的分。\n\nSubtask 编号\tN\t分值\n1\t\\le 300\t19\n2\t\\le 3000\t22\n3\t\t59",
+  "tags": [
+    {
+      "name": "Hash",
+      "description": "Hash",
+      "color": "#29CA20"
+    },
+    {
+      "name": "线段树",
+      "description": "线段树",
+      "color": "#29CA20"
+    }
+  ],
+  "difficulty": "省选/NOI-",
+  "config": {
+    "type": "conventional",
+    "test_num": 10,
+    "time_limit": 2000,
+    "memory_limit": 512,
+    "output_limit": 64,
+    "use_builtin_judger": "on",
+    "use_builtin_checker": "wcmp"
+  },
+  "version": 0
+}]
